@@ -30,7 +30,6 @@ The state should include an array of to-do objects where each object has the fol
 - deleteTodo(): Deletes a specific to-do item by ID.
 - toggleTodo(): Toggles the completion status of a specific to-do item.
 - filterTodos(): Filters the to-do list based on the selected filter (All, Active, or Completed).
-- completeTodo(): Completes the relevant to-do item.
 
 # Example of what the UI could look like
 
